@@ -31,6 +31,9 @@ public class TestOne {
     }
 
     public static void main(String[] args) {
+        String[] strs = "a.dfa,1|23".split("\\.|,|\\|");
+        System.out.println(strs[0]+ "--" +strs[1]+ "--" +strs[2]+ "--" +strs[3]);
+
         String multiply = multiply("21", "223");
         System.out.println(multiply);
     }
