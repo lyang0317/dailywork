@@ -4,37 +4,35 @@
     * local test + publish cn
 * Book Purchase
 * Navicat register -> download
+* springcloud 11.10
              
-             # Plan
-             * AM
-             1. plan 1
-             2. plates issue business 1
-             3. plates issue business 1
-             4. plates issue code 1
-             5. plates issue test plan 0
-             * MID
-             1. adjust + register + gf
-             * PM
-             1. plates issue test plan
-             2. plates issue test
-             3. plates issue test
-             4. plates issue test
-             5. plates issue test
-             6. plates business
-             7. plates business
-             8. plates business
-             9. plates business
-             10. whole process
-             * DELAY
-             1. passport
-             2. passport process
-             3. card
-             4. card process
-             
-             # Home
-             1. process
-             2. spring boot test
-             3. smartson T
+ # Plan
+ * AM
+ 1. plan 1
+ 2. plates issue test
+ 3. plates issue test
+ 4. plates issue test 
+ 5. plates issue test
+ * MID
+ 1. adjust + register
+ * PM
+ 1. card architect
+ 2. card plattern
+ 3. card plattern
+ 4. card business
+ 5. card business
+ 6. card business
+ 7. card business
+ 8. card process
+ 9. card process
+ 10. whole process
+ * DELAY
+ 1. passport
+ 2. passport process
+ 
+ # Home
+ 1. process
+ 2. spring architect
 
 # Learn
 
