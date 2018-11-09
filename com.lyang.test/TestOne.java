@@ -1,5 +1,8 @@
 package com.lyang.test;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class TestOne {
 
     public static String multiply(String num1, String num2) {
@@ -36,5 +39,28 @@ public class TestOne {
 
         String multiply = multiply("21", "223");
         System.out.println(multiply);
+
+        String s = "dvdf";
+        int max = 0;
+        String str = "";
+        int num = 0;
+        for(int i = 0; i < s.length(); i++) {
+            int index = str.indexOf(String.valueOf(s.charAt(i)));
+            if(index > -1) {
+                if(num > max) {
+                    max = num;
+                }
+                i = index + 1;
+                str = String.valueOf(s.charAt(i));
+                num = 1;
+            } else {
+                str += s.charAt(i);
+                num ++;
+            }
+            if(num > max) {
+                max = num;
+            }
+        }
+        System.out.println(max);
     }
 }
