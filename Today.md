@@ -32,7 +32,7 @@
  
  # Home
  1. process
- 2. spring architect1
+ 2. spring architect
 
 # Learn
 
