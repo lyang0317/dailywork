@@ -4,7 +4,6 @@
     * local test + publish cn
 * Book Purchase
 * Navicat register -> download
-* springcloud 11.10
              
  # Plan
  * AM
@@ -29,8 +28,7 @@
  * DELAY
  
  # Home
- 1. sequence diagram
- 2. spring architect
+ 1. spring architect
 
 # Learn
 
