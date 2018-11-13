@@ -8,27 +8,28 @@
  # Plan
  * AM
  1. plan
- 2. manufacture discuss
- 3. manufacture discuss
- 4. manufacture discuss
- 5. manufacture review
+ 2. order log
+ 3. order problem
+ 4. order problem
+ 5. order problem done
  * MID
  1. adjust
  * PM
- 1. springcloud doc 1
- 2. springcloud doc 1
- 3. springcloud doc 0.5
- 4. springcloud doc 0.5
- 5. springcloud real practice
- 6. springcloud real practice
- 7. springcloud real practice
- 8. springcloud config practice
- 9. springcloud config practice
+ 1. manufacture prd
+ 2. manufacture prd
+ 3. manufacture user example design
+ 4. manufacture user example design
+ 5. manufacture module design
+ 6. manufacture module design
+ 7. manufacture extra design
+ 8. manufacture extra design
+ 9. springcloud real practice
  10. whole process
  * DELAY
  
  # Home
  1. spring architect
+ 2. ant interview
 
 # Learn
 
