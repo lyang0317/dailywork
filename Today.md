@@ -3,26 +3,26 @@
     * limit ip
     * local test + publish cn
 * Book Purchase
-* Navicat register -> download 11.15
+* trousers
              
  # Plan
  * AM
  1. plan
- 2. order problem busniess
- 3. order problem done
- 4. order problem done
- 5. order problem sql
+ 2. manufacture archi code
+ 3. manufacture archi code
+ 4. manufacture busi code
+ 5. manufacture busi code
  * MID
- 1. adjust + 11.15
+ 1. adjust
  * PM
- 1. manufacture prd
- 2. manufacture prd
- 3. manufacture user example design
- 4. manufacture user example design
- 5. manufacture module design
- 6. manufacture module design
- 7. manufacture extra design
- 8. manufacture extra design
+ 1. manufacture review
+ 2. manufacture review
+ 3. manufacture archi code
+ 4. manufacture archi code
+ 5. manufacture busi code
+ 6. manufacture test
+ 7. manufacture test
+ 8. .net c# project
  9. .net c# project
  10. whole process
  * DELAY
@@ -46,7 +46,8 @@
 
 ====
 
-通用 性能 可扩展 各过滤组件独立
+通用(删栏组合) 性能(批量，线程) 可扩展(删栏添加) 各过滤组件独立(删栏分离)
+
 * 商品限价 
     
     商品 -> 限制(time, area, business, price(strategy))，rule -> 商品
