@@ -3,7 +3,6 @@
     * limit ip
     * local test + publish cn
 * Book Purchase
-* trousers
              
  # Plan
  * AM
@@ -31,6 +30,7 @@
  1. spring architect
  2. ant interview
  3. springcloud real practice
+ 4. father list
 
 # Learn
 
@@ -63,6 +63,20 @@
     获取组合信息（基本查询 rpc调用 数据组合）
     修改限制数据（insertOrUpdate问题）
 
+### 过滤重构
+1. 移库
+2. 接口改造
     
-
+    查询会员大区
+    查询price（确认）
+    查询商业（品）、product
+    查询价格自身服务无productid
+3. 新品种模型
+4. 规则重构
+### 移动端品种搜索价格区间
+1. 接口（限价+商品过滤）
+### 直销门店协议
+1. 厂家project
+2. 厂家查看列表
+3. 终段签订协议
 
