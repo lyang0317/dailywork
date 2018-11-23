@@ -1,6 +1,7 @@
 package com.lyang.test;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class TestOne {
@@ -34,6 +35,7 @@ public class TestOne {
     }
 
     public static void main(String[] args) {
+
         String[] strs = "a.dfa,1|23".split("\\.|,|\\|");
         System.out.println(strs[0]+ "--" +strs[1]+ "--" +strs[2]+ "--" +strs[3]);
 

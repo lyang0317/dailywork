@@ -3,6 +3,8 @@
     * limit ip
     * local test + publish cn
 * Book Purchase
+* dingding clock
+* leetcode problem
              
  # Plan
  * AM
@@ -73,6 +75,8 @@
     根据商业查询会员大区 -- 商品
     查询price（确认） -- 商品
     根据原产品id查询商品id（查代码）--商品
+    
+    
     根据商品查询品号信息 -- 品规
     根据品号id查询商品 -- 品规
     批量根据品号id查询品号信息 -- 品规
@@ -80,7 +84,7 @@
     in
     我的品种列表交互接口 -- 规则
     
-    查询商业（品）、product
+    查询商业（品）、product 价格接口
 3. 新品种模型
 4. 规则重构
 ### 移动端品种搜索价格区间
