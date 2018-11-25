@@ -3,8 +3,6 @@
     * limit ip
     * local test + publish cn
 * Book Purchase
-* dingding clock
-* leetcode problem
              
  # Plan
  * AM
@@ -91,8 +89,6 @@
 1. 接口（限价）
 ### 直销门店协议
 1. 前端调试
-
-    * 异常
 2. 厂家查看列表
 3. 终段签订协议
 
