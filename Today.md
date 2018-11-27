@@ -7,23 +7,23 @@
  # Plan
  * AM
  1. plan
- 2. manufacture archi code
- 3. manufacture archi code
- 4. manufacture busi code
- 5. manufacture busi code
+ 2. shop database
+ 3. card deploy
+ 4. filter alter
+ 5. filter deploy
  * MID
  1. adjust
  * PM
- 1. manufacture review
- 2. manufacture review
- 3. manufacture archi code
- 4. manufacture archi code
- 5. manufacture busi code
- 6. manufacture test
- 7. manufacture test
- 8. .net c# project
- 9. .net c# project
- 10. whole process
+ 1. filter process add
+ 2. filter process test
+ 3. filter process test
+ 4. filter process test
+ 5. filter database alter
+ 6. filter interface test
+ 7. filter interface test
+ 8. filter interface test
+ 9. filter interface alter
+ 10. filter interface alter
  * DELAY
  
  # Home
@@ -75,9 +75,11 @@
     根据原产品id查询商品id（查代码）--商品
     
     
-    根据商品查询品号信息 -- 品规
+    根据商品查询品号信息 -- 品规 --
     根据品号id查询商品 -- 品规
     批量根据品号id查询品号信息 -- 品规
+    
+    查询最低价
     
     in
     我的品种列表交互接口 -- 规则
