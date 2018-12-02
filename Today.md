@@ -3,33 +3,34 @@
     * limit ip
     * local test + publish cn
 * Book Purchase
-* Navicat register -> download
              
  # Plan
  * AM
  1. plan
- 2. plates ddd
- 3. plates ddd
- 4. plates code 
- 5. plates code
+ 2. shop database
+ 3. card deploy
+ 4. filter alter
+ 5. filter deploy
  * MID
  1. adjust
  * PM
- 1. plates code
- 2. plates code
- 3. passport architect
- 4. passport architect
- 5. passport business
- 6. passport business
- 7. passport business
- 8. passport business
- 9. passport process
- 10. whole process
+ 1. filter process add
+ 2. filter process test
+ 3. filter process test
+ 4. filter process test
+ 5. filter database alter
+ 6. filter interface test
+ 7. filter interface test
+ 8. filter interface test
+ 9. filter interface alter
+ 10. filter interface alter
  * DELAY
  
  # Home
- 1. sequence diagram
- 2. spring architect
+ 1. spring architect
+ 2. ant interview
+ 3. springcloud real practice
+ 4. father list
 
 # Learn
 
@@ -39,4 +40,57 @@
 3. prohibitexport
 4. limitPrice
 
+# Problem
+* jekins multiple ip
+* project multiple git/server/log
+
+====
+
+通用(删栏组合) 性能(批量，线程) 可扩展(删栏添加) 各过滤组件独立(删栏分离)
+
+* 商品限价 
+    
+    商品 -> 限制(time, area, business, price(strategy))，rule -> 商品
+
+* 设置
+
+    获取限制信息（数据转换）
+    修改限制信息
+    获取基本信息（其他库）
+    
+======
+    
+    获取组合信息（基本查询 rpc调用 数据组合）
+    修改限制数据（insertOrUpdate问题）
+
+### 过滤重构
+1. 移库
+2. 接口改造
+    
+    out
+    批量根据商品查询商品、商业、会员大区 -- 商品
+    根据商品查询商品、商业 -- 商品
+    根据商业查询会员大区 -- 商品
+    查询price（确认） -- 商品
+    根据原产品id查询商品id（查代码）--商品
+    
+    
+    根据商品查询品号信息 -- 品规 --
+    根据品号id查询商品 -- 品规
+    批量根据品号id查询品号信息 -- 品规
+    
+    查询最低价
+    
+    in
+    我的品种列表交互接口 -- 规则
+    
+    查询商业（品）、product 价格接口
+3. 新品种模型
+4. 规则重构
+### 移动端品种搜索价格区间
+1. 接口（限价）
+### 直销门店协议
+1. 前端调试
+2. 厂家查看列表
+3. 终段签订协议
 
