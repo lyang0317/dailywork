@@ -4,7 +4,6 @@
     * local test + publish cn
 * Book Purchase
 * Navicat register -> download
-* springcloud 11.10
              
  # Plan
  * AM
