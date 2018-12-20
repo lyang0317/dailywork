@@ -5,6 +5,8 @@
 * Book Purchase
 * C# code
 * 公积金
+* xrebel java -agent
+* https://download.csdn.net/download/whm412/9827594?web=web
              
  # Plan
  * AM
