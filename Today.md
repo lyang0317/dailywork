@@ -10,6 +10,7 @@
 * 康波访谈视频
 * bluehot_lx
 * OPTION
+* https:///manufacturerOs/backend/drugProductList.html
              
  # Plan
  * AM
