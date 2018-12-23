@@ -3,14 +3,11 @@
     * limit ip
     * local test + publish cn
 * Book Purchase
-* C# code
 * 公积金
-* xrebel java -agent
-* https://download.csdn.net/download/whm412/9827594?web=web
-* 康波访谈视频
+* xrebel monitor
+* C# convert https://download.csdn.net/download/whm412/9827594?web=web
 * bluehot_lx
-* OPTION
-* https:///manufacturerOs/backend/drugProductList.html
+* OPTIONS spring.mvc.dispatch-options-request=false
              
  # Plan
  * AM
