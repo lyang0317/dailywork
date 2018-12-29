@@ -7,7 +7,6 @@
 * xrebel monitor
 * C# convert https://download.csdn.net/download/whm412/9827594?web=web
 * bluehot_lx
-* OPTIONS spring.mvc.dispatch-options-request=false
              
  # Plan
  * AM
