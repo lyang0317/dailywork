@@ -7,6 +7,8 @@
 * xrebel monitor
 * C# convert https://download.csdn.net/download/whm412/9827594?web=web
 * bluehot_lx
+* https://my.oschina.net/u/3920392/blog/2998115
+    springboot admin/skywalking
              
  # Plan
  * AM
