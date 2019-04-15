@@ -10,49 +10,25 @@
 * https://my.oschina.net/u/3920392/blog/2998115
     https://github.com/apache/incubator-skywalking
     springboot admin/skywalking
-* baidu yun
              
  # Plan
  * AM
- 1. plan
- 2. shop database
- 3. card deploy
- 4. filter alter
- 5. filter deploy
+ 1. 
  * MID
- 1. adjust
+ 1. 
  * PM
- 1. filter process add
- 2. filter process test
- 3. filter process test
- 4. filter process test
- 5. filter database alter
- 6. filter interface test
- 7. filter interface test
- 8. filter interface test
- 9. filter interface alter
- 10. filter interface alter
+ 1.
  * DELAY
  
  # Home
- 1. spring architect
- 2. ant interview
- 3. springcloud real practice
- 4. father list
+ 1. sspringcloud real practice
 
 # Learn
 
 
 # Problem
-* jekins multiple ip
-* project multiple git/server/log
 
 
-### 厂商后台上线
-
-### 订单优化
-
-### 监控实现
 
 
 
